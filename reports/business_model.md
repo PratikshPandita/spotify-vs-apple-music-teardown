@@ -70,10 +70,10 @@
 
 ### 1. Business Model Overview
 
-![Spotify vs Apple - Revenue & Strategy](..visuals/Business Model Comparison.png)
+![Spotify vs Apple - Revenue & Strategy](visuals/Business Model Comparison.png)
 ---
 ### 2. Pricing Strategy & Churn Funnel
 
-![Spotify vs Apple - Pricing & Churn](..visuals/Pricing Strategy & Churn Funnel.png)
+![Spotify vs Apple - Pricing & Churn](visuals/Pricing Strategy & Churn Funnel.png)
 ---
 ---
