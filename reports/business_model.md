@@ -64,4 +64,15 @@
 **Core Insight**: Spotify focuses on volume, affordability, and conversion, while Apple Music leverages ecosystem synergies and premium alignment to drive steady, high-value subscriptions.
 
 ---
+---
+
+## 📊 Visual Comparison
+
+### 1. Business Model Overview
+
+![Spotify vs Apple - Revenue & Strategy](../visuals/Business Model Comparison.png)
+
+### 2. Pricing Strategy & Churn Funnel
+
+![Spotify vs Apple - Pricing & Churn](../visuals/Pricing Strategy & Churn Funnel.png)
 
