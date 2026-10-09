@@ -1,6 +1,16 @@
-Country,Plan,Spotify (₹/USD),Source,Apple Music (₹/USD),Source
-India,Individual,119 ₹ (≈ 1.43 USD),Spotify student page June 2025 :contentReference[oaicite:1]{index=1},119 ₹ (≈ 1.43 USD),Apple Music India page :contentReference[oaicite:2]{index=2}
-India,Student,59 ₹ (~0.71 USD),Spotify student page :contentReference[oaicite:3]{index=3},59 ₹ (~0.71 USD),Apple India student plan :contentReference[oaicite:4]{index=4}
-India,Family,179 ₹ (~2.15 USD),Apple India page :contentReference[oaicite:5]{index=5},179 ₹ (~2.15 USD),Apple India page :contentReference[oaicite:6]{index=6}
-USA,Individual,10.99 USD,Apple US page & NerdWallet :contentReference[oaicite:7]{index=7},10.99 USD,Apple US info :contentReference[oaicite:8]{index=8}
-USA,Family,16.99 USD,NerdWallet :contentReference[oaicite:9]{index=9},16.99 USD,NerdWallet :contentReference[oaicite:10]{index=10}
+market,service,plan,monthly_price,currency,max_accounts,lossless_included,source_url,checked_on
+India,Spotify,Free (ad-supported),0,INR,1,No,https://www.spotify.com/in-en/premium/,2026-10-09
+India,Spotify,Premium Student,69,INR,1,No,https://www.spotify.com/in-en/premium/,2026-10-09
+India,Spotify,Premium Standard,139,INR,1,No,https://www.spotify.com/in-en/premium/,2026-10-09
+India,Spotify,Premium Standard (12-month prepaid; 1390 per year),115.83,INR,1,No,https://www.spotify.com/in-en/premium/,2026-10-09
+India,Spotify,Premium Platinum,299,INR,3,Yes,https://www.spotify.com/in-en/premium/,2026-10-09
+India,Apple Music,Student,69,INR,1,Yes,https://www.apple.com/in/apple-music/,2026-10-09
+India,Apple Music,Individual,139,INR,1,Yes,https://www.apple.com/in/apple-music/,2026-10-09
+India,Apple Music,Family,229,INR,6,Yes,https://www.apple.com/in/apple-music/,2026-10-09
+USA,Spotify,Premium Student,6.99,USD,1,Yes,https://www.spotify.com/us/premium/,2026-10-09
+USA,Spotify,Premium Individual,12.99,USD,1,Yes,https://www.spotify.com/us/premium/,2026-10-09
+USA,Spotify,Premium Duo,18.99,USD,2,Yes,https://www.spotify.com/us/premium/,2026-10-09
+USA,Spotify,Premium Family,21.99,USD,6,Yes,https://www.spotify.com/us/premium/,2026-10-09
+USA,Apple Music,Student,6.99,USD,1,Yes,https://www.apple.com/apple-music/,2026-10-09
+USA,Apple Music,Individual,11.99,USD,1,Yes,https://www.apple.com/apple-music/,2026-10-09
+USA,Apple Music,Family,19.99,USD,6,Yes,https://www.apple.com/apple-music/,2026-10-09

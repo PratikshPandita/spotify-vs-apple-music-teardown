@@ -1,26 +1,23 @@
 # User Experience Comparison: Spotify vs. Apple Music
 
 ## Overview
-Spotify and Apple Music have fundamentally different philosophies when it comes to user experience.
+Spotify and Apple Music take different approaches to user experience.
 
-- **Spotify** leans heavily into personalization. Its recommendations feel “alive,” with tailored playlists, adaptive home screens, and social features like Blend and Wrapped.
+- **Spotify** leans heavily into personalization. Its recommendations feel "alive," with tailored playlists, an adaptive home screen and social features like Blend and Wrapped.
 - **Apple Music** offers a clean, stable interface with deep integration into the Apple ecosystem. It feels polished but less dynamic.
 
-## Navigation & Layout
-- **Spotify** uses a bottom navigation bar and prioritizes quick access to "Home," "Search," and "Your Library." Discover Weekly and Release Radar are prominently featured.
-- **Apple Music** organizes around “Listen Now,” “Browse,” and “Library.” It integrates tightly with Siri and Apple Watch, and fits naturally within iOS.
+## Navigation and layout
+- Both apps use a bottom tab bar for the home screen, search and the user's library.
+- **Spotify** puts personalized playlists such as Discover Weekly and Release Radar front and center.
+- **Apple Music** integrates tightly with Siri and Apple Watch and feels like a natural part of iOS.
 
 ## Personalization
-- **Spotify** leads here, with advanced algorithmic curation, collaborative playlists, and social sharing built into the product DNA.
-- **Apple Music** relies more on editorial curation and less on machine learning. Personalization exists, but it's more subtle and slower to adapt.
+- **Spotify** leads here, with advanced algorithmic curation, collaborative playlists and social sharing built into the product.
+- **Apple Music** relies more on editorial curation. Personalization exists, but it is subtler and slower to adapt.
 
-## Visual Design
-- **Spotify** feels informal and vibrant — a music-first product made for exploration.
-- **Apple Music** looks premium and minimalist, emphasizing smooth animations and consistency with other Apple apps.
+## Visual design
+- **Spotify** feels informal and vibrant: a music-first product made for exploration.
+- **Apple Music** looks premium and minimalist, with smooth animations and consistency with other Apple apps.
 
-## Accessibility & Inclusivity
-- Both platforms meet basic accessibility standards.
-- Spotify has slightly more flexible playback controls, while Apple benefits from system-wide iOS features like VoiceOver.
-
-## Key Takeaway
-Spotify prioritizes engagement and personalization through data; Apple Music favors simplicity, predictability, and platform synergy.
+## Key takeaway
+Spotify uses data to drive engagement and personalization; Apple Music favors simplicity, predictability and fit with the Apple ecosystem.

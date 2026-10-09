@@ -1,78 +1,104 @@
-# Business Model & Strategic Comparison
+# Business Model and Strategy: Spotify vs. Apple Music
 
-## 1. Revenue Streams
+*Figures last checked: 9 October 2026. Price data: [data/pricing.csv](../data/pricing.csv) and [data/india_price_changes.csv](../data/india_price_changes.csv).*
+
+## 1. Revenue streams
 
 ### Spotify
-- **Subscription-based**: Premium plans (Individual ₹119/mo, Family ₹179/mo in India; $10.99/$16.99 in US) drive most revenue.
-- **Ad-supported tier**: Supports free users and fuels ad revenue, especially important in price-sensitive markets like India. :contentReference[oaicite:1]{index=1}
-- **Podcast monetization**: Investment in exclusive podcasts adds sponsorship and content revenue.
+- **Subscriptions:** Premium plans bring in most of the revenue: €4.33 billion of €4.78 billion in Q2 2026.
+- **Ad-supported free tier:** The free tier earns advertising revenue (€446 million in Q2 2026) and is the main entry point to Premium. It is still available in India.
+- **Audiobooks:** In the US, Spotify also sells an Audiobooks Access plan with 15 hours of listening a month.
 
 ### Apple Music
-- **Subscription-only**: No free tier; all revenue comes from paid users.
-- **Bundled Revenues**: Apple Music boosts Apple One subscriptions, alongside TV+, Arcade, iCloud. Not sold standalone. :contentReference[oaicite:2]{index=2}
+- **Subscriptions only:** There is no free tier. New subscribers get the first month free.
+- **Sold on its own and in bundles:** Apple Music can be bought by itself or as part of Apple One, which bundles it with other Apple services (from $21.95 a month in the US).
 
 ---
 
-## 2. Average Revenue Per User (ARPU)
+## 2. Average revenue per user (ARPU)
 
-- **Spotify**: Global ARPU ~ $5–6/month (varies by market). In India, premium ARPU is lower due to ₹119 pricing, but high subscriber count offsets it. :contentReference[oaicite:3]{index=3}  
-- **Apple Music**: Likely similar ARPU in key markets ($10.99 individual), but bundling skews effective ARPU per service.
+- **Spotify:** Premium ARPU was €4.89 a month in Q2 2026, well below the US list price because of lower prices in emerging markets and discounted Student and multi-person plans.
+- **Apple Music:** Apple does not report Apple Music subscribers or ARPU separately, so a direct comparison is not possible. Apple One bundles also blur how much revenue each service earns.
 
 ---
 
-## 3. Churn & Retention Strategy
+## 3. Churn and retention
 
 - **Spotify**
-  - **Free tier** serves as conversion funnel; regional pricing keeps conversions appealing. :contentReference[oaicite:4]{index=4}
-  - **Student & Duo plans** offer mid-tier entry points.
+  - The **free tier** works as a conversion funnel into Premium.
+  - The **Student plan** (₹69 in India) is a low-cost entry point.
+  - In India, **Premium Platinum** (₹299) covers up to 3 people at the same address. Duo and Family plans have been closed to new Indian subscribers since November 2025.
 
 - **Apple Music**
-  - **Bundling via Apple One** increases retention through ecosystem lock-in.
-  - Focus is less on free-to-paid conversion, more on multi-service retention.
+  - **Apple One bundles** raise switching costs by tying music to iCloud, TV+ and other services.
+  - The **Family plan** covers up to 6 people for ₹229 in India.
 
 ---
 
-## 4. Market Expansion & Pricing Strategy
+## 4. Pricing
 
-- **India example**: Both services price Individual at ₹119/month, Family ₹179/month. Spotify offers an additional ₹7/day "Mini plan". :contentReference[oaicite:5]{index=5}  
-- **Global dynamics**: Spotify adjusts pricing by region; rumors suggest price rises in markets like the UK & Australia. :contentReference[oaicite:6]{index=6}  
-- **Apple Music** remains consistent—$10.99 for Individual, $16.99 for Family, $5.99 Student (US). :contentReference[oaicite:7]{index=7}
+### India, October 2026 (monthly, new subscribers)
+
+| Plan type | Spotify | Apple Music |
+|---|---|---|
+| Free | ₹0 (with ads) | Not offered (1-month free trial) |
+| Student | ₹69 | ₹69 |
+| One person | ₹139 (Standard, up to ~320 kbps) | ₹139 (Individual, lossless included) |
+| One person, paid yearly | ₹1,390 prepaid (about ₹116 a month) | No annual option listed |
+| Largest group plan | ₹299 (Platinum, up to 3 people, lossless) | ₹229 (Family, up to 6 people, lossless) |
+
+### How India prices moved
+
+| When | Change |
+|---|---|
+| Nov 2025 | Spotify launches a new lineup for new users (Lite ₹139, Standard ₹199, Student ₹99, Platinum ₹299) and closes Duo and Family to new users. |
+| May 2026 | Spotify cuts Standard from ₹199 to ₹139 and Student from ₹99 to ₹69, and discontinues Lite. |
+| Jul 2026 | Apple raises Individual from ₹119 to ₹139, Student from ₹59 to ₹69 and Family from ₹179 to ₹229. |
+
+![India one-person price over time](../visuals/india_one_person_price.png)
+
+![India plans compared](../visuals/india_plans_compared.png)
+
+### United States, October 2026 (monthly)
+
+| Plan | Spotify | Apple Music |
+|---|---|---|
+| Student | $6.99 | $6.99 |
+| Individual | $12.99 | $11.99 |
+| Duo | $18.99 | Not offered |
+| Family | $21.99 | $19.99 |
 
 ---
 
-## 5. Strategic Partnerships & Ecosystem Lock-In
+## 5. Ecosystem and partnerships
 
 - **Spotify**
-  - Ecosystem-agnostic: Works on nearly all devices.
-  - Partnerships with brands and events enhance visibility.
+  - Works on almost every device and platform, with no dependence on one ecosystem.
+  - Integrates with third-party hardware and software, from smart speakers to DJ apps (Platinum in India includes DJ software integration).
 
 - **Apple Music**
-  - Tight integration: Siri, CarPlay, Apple Watch, HomePod.
-  - Part of Apple’s larger ecosystem—bundle partnerships with services and hardware.
+  - Tight integration with Siri, CarPlay, Apple Watch and HomePod.
+  - Part of Apple's wider ecosystem and sold in Apple One bundles.
 
 ---
 
-## 6. Summary & Strategic Implications
+## 6. Summary
 
-| Aspect           | Spotify                                        | Apple Music                                       |
-|------------------|------------------------------------------------|---------------------------------------------------|
-| Revenue Model    | Dual model—free + paid                        | Subscription-only, ecosystem bundling            |
-| ARPU             | Lower in emerging markets, high global reach  | Higher per user, boosted by service bundles       |
-| Growth Strategy  | Price localization, freemium-to-premium path  | Ecosystem-led retention, premium positioning     |
-| Risk/Advantage   | Vulnerable to churn in premium, ad reliance   | Dependent on Apple hardware adoption             |
+| Aspect | Spotify | Apple Music |
+|---|---|---|
+| Revenue model | Free tier with ads, plus paid Premium | Subscription only, also sold in bundles |
+| ARPU | €4.89 Premium ARPU (Q2 2026); lower in emerging markets | Not disclosed; blurred by Apple One bundles |
+| Growth strategy | Free-to-premium funnel and local pricing | Ecosystem-led retention and premium positioning |
+| Main risk | Depends on converting free users and on ad revenue | Depends on Apple hardware adoption |
 
-**Core Insight**: Spotify focuses on volume, affordability, and conversion, while Apple Music leverages ecosystem synergies and premium alignment to drive steady, high-value subscriptions.
+**Core insight:** Spotify competes on reach and conversion from a free tier, while Apple Music relies on its ecosystem to keep paying subscribers. In India, single plans now cost the same, so the difference has moved to group plans, audio quality and the free tier.
 
----
-## 📊 Visual Comparison
-
-### 1. Business Model Overview
-
-![Spotify vs Apple - Revenue & Strategy](../visuals/Business%20Model%20Comparison.png)
-
-### 2. Pricing Strategy & Churn Funnel
-
-![Spotify vs Apple - Pricing & Churn](../visuals/Pricing%20Strategy%20%26%20Churn%20Funnel.png)
-
----
----
+## Sources
+- Spotify India Premium page: https://www.spotify.com/in-en/premium/
+- Apple Music India page: https://www.apple.com/in/apple-music/
+- Spotify US Premium page: https://www.spotify.com/us/premium/
+- Apple Music US page: https://www.apple.com/apple-music/
+- Rolling Stone India, Spotify's new Indian plans (13 Nov 2025): https://rollingstoneindia.com/spotify-premium-plans-india-new-prices-features/
+- MediaNama, Spotify cuts prices and discontinues Lite (14 May 2026): https://www.medianama.com/2026/05/223-spotify-discontinues-premium-lite-india-cuts-prices-other-plans/
+- Republic World, Apple Music price rise in India (19 Jul 2026): https://www.republicworld.com/tech/apple-music-apple-one-get-pricier-in-india-as-apple-hikes-subscription-rates-again-2026-07-19-132794
+- Music Business Worldwide, Spotify Q2 2026 results: https://www.musicbusinessworldwide.com/spotify-hits-300-million-premium-subscribers-in-q2-202/
